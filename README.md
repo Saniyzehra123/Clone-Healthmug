@@ -23,9 +23,12 @@ Ravi prasad Kesri
  
  # Screen short
 
+ 1.Landing page
 <img src="https://user-images.githubusercontent.com/96076158/158614651-ad25231f-2dcf-41af-87b4-a0d83d28d770.png"/> 
-<img src="https://user-images.githubusercontent.com/96076158/158623949-12ddd47b-bf0f-4d0d-91d9-ff5f840004d6.png"/> 
- 
+<img src="https://user-images.githubusercontent.com/96076158/158623949-12ddd47b-bf0f-4d0d-91d9-ff5f840004d6.png"/>
+ 2.Sign in page
+ <img src="https://user-images.githubusercontent.com/96076158/158631994-2c0d106c-a4bb-4c5b-a39d-7579a5154e77.png"/> 
+ 3.Product page
  <img src="https://user-images.githubusercontent.com/96076158/158625457-b50ecdc4-7757-43f8-b0ae-23b8699b522a.png"/> 
  
  <h1>Challenges we faced </h1>
